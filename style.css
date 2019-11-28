@@ -1,0 +1,15 @@
+header{
+    color: mediumblue;
+    text-align: center;
+    font-size: 200%;
+
+}
+div{
+    text-align: center;
+    height:auto;
+    width: auto;
+    font-size: 240%;
+}
+span {
+    color: orangered;
+}
